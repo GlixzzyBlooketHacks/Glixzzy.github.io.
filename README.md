@@ -16,7 +16,7 @@ if you get banned this is not my issue
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please say in discussions! 🌟PLEASE STAR THIS PROJECT🌟
 The original Blooket hack v4.2
 The Blooket Hack
-The Blooket Hack provided by shenke...
+The Blooket Hack provided by glixzzy...
 
 
 Why you should use this tool:
