@@ -1,0 +1,21 @@
+If you're thinking, "How many boxes do I have to open to get ___ ?", read this. Let's use the Mega Bot as
+an example. With this we need to take into account that each box you open, the
+drop rate will stay the same. e.g 0.3%
+You're probably thinking that if you open >333 boxes you'd be guaranteed to get it. Well, you're wrong. The
+drop rate is 0.3% per box. Now let's do some simple math (example):
+
+You open the bot box 2 times.
+The drop rate is 0.3%
+The chance of Not getting it is 99.7%
+99.7 = 0.997
+0.997 ^ T = 0.994009 (T = boxes opened, so 2)
+For one or the other (or both) the chance of you not getting it is 99.4009%
+100 - 99.4009 = 0.5991
+This means that for one or the other, the chance of getting it would be 0.5991%
+
+
+That should help.
+
+
+
+
